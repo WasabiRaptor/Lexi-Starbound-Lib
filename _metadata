@@ -1,0 +1,13 @@
+{
+	"version" : "0.0",
+	"tags" : "",
+	"author" : "Zygan, Wasabi_Raptor",
+	"description" : "",
+	"name" : "wr_lib",
+	"friendlyName" : "Lexi's Library Mod",
+	"includes" : [],
+	"scripts" : {
+		"onLoad" : []
+	}
+
+}

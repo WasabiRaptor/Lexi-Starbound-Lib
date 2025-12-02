@@ -1,0 +1,12 @@
+{
+	"globalTagDefaults" : {
+		"cosmetic<slot>Directives" : ""
+	},
+	"animatedParts" : {
+		"parts" : {
+		}
+	},
+	"transformationGroups" : {
+		"backCosmetic<slot>Rotation" : {"interpolated":true}
+	}
+}
