@@ -12,7 +12,7 @@
 			"hindlegBackCosmetic<slot>": {
 				"properties": {
 					"centered": true,
-					"zLevel": 4.0,
+					"zLevel": 4.00,
 					"transformationGroups": [],
 					"anchorPart": "hindlegBack",
 					"processingDirectives" : "<cosmetic<slot>Directives>"
@@ -163,7 +163,7 @@
 			"hindlegFrontCosmetic<slot>": {
 				"properties": {
 					"centered": true,
-					"zLevel": 24.0,
+					"zLevel": 24.00,
 					"transformationGroups": [],
 					"anchorPart": "hindlegFront",
 					"processingDirectives" : "<cosmetic<slot>Directives>"

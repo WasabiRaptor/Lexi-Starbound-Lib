@@ -5,7 +5,7 @@
 		"parts" : {
 			"headCosmetic<slot>": {
 				"properties": {
-					"zLevel" : 19.0
+					"zLevel" : 19.00
 				},
 				"partStates": {
 				}

@@ -14,7 +14,7 @@
 			"forelegBackCosmetic<slot>": {
 				"properties": {
 					"centered": true,
-					"zLevel": 6.0,
+					"zLevel": 6.00,
 					"transformationGroups": [],
 					"anchorPart": "forelegBack",
 					"processingDirectives" : "<cosmetic<slot>Directives>"
@@ -165,7 +165,7 @@
 			"bodyCosmetic<slot>": {
 				"properties": {
 					"centered": true,
-					"zLevel": 10.0,
+					"zLevel": 10.00,
 					"transformationGroups": [],
 					"anchorPart": "body",
 					"processingDirectives" : "<cosmetic<slot>Directives>"
@@ -316,7 +316,7 @@
 			"forelegFrontCosmetic<slot>": {
 				"properties": {
 					"centered": true,
-					"zLevel": 12.0,
+					"zLevel": 12.00,
 					"transformationGroups": [],
 					"anchorPart": "forelegFront",
 					"processingDirectives" : "<cosmetic<slot>Directives>"
