@@ -1,6 +1,6 @@
 {
 	"globalTagDefaults" : {
-		"backCosmetic<slot>BigQuadrupedFrameset" : "",
+		"backCosmetic<slot>quadruped_bigFrameset" : "",
 		"cosmetic<slot>Directives" : ""
 	},
 	"animatedParts" : {
