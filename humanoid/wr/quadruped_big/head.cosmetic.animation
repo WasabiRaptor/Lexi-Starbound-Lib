@@ -6,7 +6,7 @@
 			"headCosmetic<slot>": {
 				"properties": {
 					"offset" : [0.5,-1.0625],
-					"zLevel" : 19.0
+					"zLevel" : 22.00
 				},
 				"partStates": {
 				}

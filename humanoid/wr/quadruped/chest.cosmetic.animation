@@ -316,7 +316,7 @@
 			"forelegFrontCosmetic<slot>": {
 				"properties": {
 					"centered": true,
-					"zLevel": 12.00,
+					"zLevel": 13.00,
 					"transformationGroups": [],
 					"anchorPart": "forelegFront",
 					"processingDirectives" : "<cosmetic<slot>Directives>"

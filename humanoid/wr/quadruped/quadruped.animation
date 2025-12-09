@@ -954,7 +954,7 @@
 			"forelegFront": {
 				"properties": {
 					"centered": true,
-					"zLevel": 11,
+					"zLevel": 12,
 					"transformationGroups": [],
 					"anchorPart": "anchor",
 					"processingDirectives" : "<bodyDirectives>"
@@ -1224,14 +1224,14 @@
 				"properties" : {
 					"centered": true,
 					"anchorPart" : "forelegFront",
-					"zLevel" : 12
+					"zLevel" : 13
 				}
 			},
 
 			"backArm": {
 				"properties": {
 					"centered": true,
-					"zLevel": 13,
+					"zLevel": 14,
 					"transformationGroups": [],
 					"anchorPart" : "head",
 					"processingDirectives" : "<bodyDirectives>",
@@ -1390,7 +1390,7 @@
 			"backHandItem":{
 				"properties" : {
 					"centered": true,
-					"zLevel": 13,
+					"zLevel": 14,
 					"anchorPart" : "backArm",
 					"transformationGroups": ["backHandItemRotation"]
 				}
@@ -1398,13 +1398,13 @@
 
 			"emoteBack": {
 				"properties": {
-					"zLevel": 14
+					"zLevel": 15
 				}
 			},
 			"head": {
 				"properties": {
 					"centered": true,
-					"zLevel": 15,
+					"zLevel": 16,
 					"transformationGroups": ["headRotation", "headOffset"],
 					"anchorPart" : "body",
 					"processingDirectives" : "<bodyDirectives>",
@@ -1435,13 +1435,13 @@
 			},
 			"emote": {
 				"properties": {
-					"zLevel": 16
+					"zLevel": 17
 				}
 			},
 			"hair": {
 				"properties": {
 					"centered": true,
-					"zLevel": 17,
+					"zLevel": 18,
 					"anchorPart": "head",
 					"processingDirectives" : "<hairDirectives><helmetMaskDirectives>"
 				},
@@ -1470,7 +1470,7 @@
 			"facialHair": {
 				"properties": {
 					"centered": true,
-					"zLevel": 18,
+					"zLevel": 19,
 					"anchorPart": "head",
 					"processingDirectives" : "<facialHairDirectives><helmetMaskDirectives>"
 				},
@@ -1499,7 +1499,7 @@
 			"facialMask": {
 				"properties": {
 					"centered": true,
-					"zLevel": 19,
+					"zLevel": 20,
 					"anchorPart": "head",
 					"processingDirectives" : "<facialMaskDirectives><helmetMaskDirectives>"
 				},
@@ -1527,21 +1527,21 @@
 			},
 			"emoteFront": {
 				"properties": {
-					"zLevel": 20
+					"zLevel": 21
 				}
 			},
 			"headCosmetic" : { // this is merely a part for the generated cosmetic parts to anchor to
 				"properties" : {
 					"centered": true,
 					"anchorPart" : "head",
-					"zLevel" : 21
+					"zLevel" : 22
 				}
 			},
 
 			"frontArm": {
 				"properties": {
 					"centered": true,
-					"zLevel": 22,
+					"zLevel": 23,
 					"transformationGroups": [],
 					"anchorPart" : "head",
 					"processingDirectives" : "<bodyDirectives>",
@@ -1701,7 +1701,7 @@
 			"frontHandItem":{
 				"properties" : {
 					"centered": true,
-					"zLevel": 22,
+					"zLevel": 24,
 					"anchorPart" : "frontArm",
 					"transformationGroups": ["frontHandItemRotation"]
 				}
@@ -1710,7 +1710,7 @@
 			"hindlegFront": {
 				"properties": {
 					"centered": true,
-					"zLevel": 23,
+					"zLevel": 25,
 					"transformationGroups": [],
 					"anchorPart": "anchor",
 					"processingDirectives" : "<bodyDirectives>"
@@ -1861,7 +1861,7 @@
 				"properties" : {
 					"centered": true,
 					"anchorPart" : "hindlegFront",
-					"zLevel" : 24
+					"zLevel" : 26
 				}
 			}
 

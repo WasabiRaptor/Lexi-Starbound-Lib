@@ -173,7 +173,7 @@
 			"midlegFront": {
 				"properties": {
 					"centered": true,
-					"zLevel": 10.5,
+					"zLevel": 11.8,
 					"transformationGroups": [],
 					"anchorPart": "anchor",
 					"processingDirectives" : "<bodyDirectives>"
@@ -443,7 +443,7 @@
 				"properties" : {
 					"centered": true,
 					"anchorPart" : "midlegFront",
-					"zLevel" : 10.6
+					"zLevel" : 11.9
 				}
 			}
 
