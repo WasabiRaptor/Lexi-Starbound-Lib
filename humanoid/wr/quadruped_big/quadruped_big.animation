@@ -62,7 +62,7 @@
 						"tailOffset" : [["reset"],	["translate",[-0.345,0]]]
 					} },
 					"sit": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
-						"tailOffset" : [["reset"],	["translate",[0.75,-1.375]]]
+						"tailOffset" : [["reset"],	["translate",[0.25,-1.375]]]
 					} },
 					"lay": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
 					} },
