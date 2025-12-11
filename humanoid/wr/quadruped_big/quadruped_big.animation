@@ -59,10 +59,10 @@
 					"idle": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
 					} },
 					"duck": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
-						"tailOffset" : [["reset"],	["translate",[-0.345,0]]]
+						"tailOffset" : [["reset"],	["translate",[-0.25,0.125]]]
 					} },
 					"sit": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
-						"tailOffset" : [["reset"],	["translate",[0.25,-1.375]]]
+						"tailOffset" : [["reset"],	["translate",[0.75,-1.25]]]
 					} },
 					"lay": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
 					} },
@@ -1106,9 +1106,9 @@
 				"partStates": {
 					"body": {
 						"idle": { "properties": { "image": "<humanoidPath><hairFrameset>:normal" } },
-						"duck": "idle",
-						"sit": "idle",
-						"lay": "idle",
+						"duck": { "properties": { "image": "<humanoidPath><hairFrameset>:normal" } },
+						"sit": { "properties": { "image": "<humanoidPath><hairFrameset>:normal" } },
+						"lay": { "properties": { "image": "<humanoidPath><hairFrameset>:normal" } },
 						"walk": "idle",
 						"run": "idle",
 						"runbackwards": "idle",
@@ -1133,9 +1133,9 @@
 				"partStates": {
 					"body": {
 						"idle": { "properties": { "image": "<humanoidPath><facialHairFrameset>:normal" } },
-						"duck": "idle",
-						"sit": "idle",
-						"lay": "idle",
+						"duck": { "properties": { "image": "<humanoidPath><facialHairFrameset>:normal" } },
+						"sit": { "properties": { "image": "<humanoidPath><facialHairFrameset>:normal" } },
+						"lay": { "properties": { "image": "<humanoidPath><facialHairFrameset>:normal" } },
 						"walk": "idle",
 						"run": "idle",
 						"runbackwards": "idle",
@@ -1160,9 +1160,9 @@
 				"partStates": {
 					"body": {
 						"idle": { "properties": { "image": "<humanoidPath><facialMaskFrameset>:normal" } },
-						"duck": "idle",
-						"sit": "idle",
-						"lay": "idle",
+						"duck": { "properties": { "image": "<humanoidPath><facialMaskFrameset>:normal" } },
+						"sit": { "properties": { "image": "<humanoidPath><facialMaskFrameset>:normal" } },
+						"lay": { "properties": { "image": "<humanoidPath><facialMaskFrameset>:normal" } },
 						"walk": "idle",
 						"run": "idle",
 						"runbackwards": "idle",
