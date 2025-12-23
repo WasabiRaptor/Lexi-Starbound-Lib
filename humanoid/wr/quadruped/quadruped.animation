@@ -72,7 +72,7 @@
 						"tailOffset" : [["reset"],	["translate",[0,0.375]]]
 					} },
 					"sit": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
-						"tailOffset" : [["reset"],	["scale",[-1,1]],	["translate",[-0.125,0]]]
+						"tailOffset" : [["reset"],	["translate",[0.375,-0.75]]]
 					} },
 					"lay": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
 						"movementOffset" :  [["reset"],	["translate",[0, -0.875]]],
@@ -461,7 +461,7 @@
 				"partStates" : {
 					"body" : {
 						"lay" : {"properties":{"offset":[0, 1.625], "transforms":[["reset"],["scale",[-1,1]],["rotateDegrees",-90]]}}, // quadrupeds are in a differient orientation than the game expects for lay, so we un-rotate the expected 90 degress rotation
-						"sit" : {"properties":{"offset":[0,-0.5625]}}
+						"sit" : {"properties":{"offset":[-0.375,0.375]}}
 					},
 					"portraitMode" : {
 						"head" : {"properties":{"offset":[-1, 0.5]}},
