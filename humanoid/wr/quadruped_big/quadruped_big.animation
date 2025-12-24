@@ -80,24 +80,6 @@
 					"jump": { "frames": 4, "cycle": 0.25, "mode": "end", "properties" : {
 						"headOffset" : [["reset"],	["translate",[0,0.125]]]
 					}, "frameProperties":{
-						"movementOffset" : [
-							[["reset"],	["translate",[0,0.125]]],
-							[["reset"],	["translate",[0,0.25]]],
-							[["reset"],	["translate",[0,0.375]]],
-							[["reset"],	["translate",[0,0.375]]]
-						],
-						"crotchOffset" : [
-							[["reset"],	["translate",[0,-0.125]]],
-							[["reset"],	["translate",[0,-0.25]]],
-							[["reset"],	["translate",[0,-0.375]]],
-							[["reset"],	["translate",[0,-0.375]]]
-						],
-						"bellyOffset" : [
-							[["reset"],	["translate",[0,-0.125]]],
-							[["reset"],	["translate",[0,-0.25]]],
-							[["reset"],	["translate",[0,-0.375]]],
-							[["reset"],	["translate",[0,-0.375]]]
-						],
 						"tailOffset" : [
 							[["reset"],	["translate",[0,-0.125]]],
 							[["reset"],	["translate",[0,-0.25]]],
@@ -107,18 +89,6 @@
 					} },
 					"fall": { "frames": 4, "cycle": 0.25, "mode": "end", "properties" : {
 					}, "frameProperties":{
-						"movementOffset" : [
-							[["reset"],	["translate",[0,0.25]]],
-							[["reset"],	["translate",[0,0.0]]],
-							[["reset"],	["translate",[0,0.0]]],
-							[["reset"],	["translate",[0,0.0]]]
-						],
-						"crotchOffset" : [
-							[["reset"],	["translate",[0,-0.125]]],
-							[["reset"],	["translate",[0,0]]],
-							[["reset"],	["translate",[0,0.125]]],
-							[["reset"],	["translate",[0,0.25]]]
-						],
 						"tailOffset" : [
 							[["reset"],	["translate",[0,-0.125]]],
 							[["reset"],	["translate",[0,0]]],
