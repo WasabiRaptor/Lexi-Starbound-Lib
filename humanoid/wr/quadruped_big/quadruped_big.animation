@@ -30,7 +30,6 @@
 
 		"headFrameset" : "malehead.png",
 		"bodyFrameset" : "malebody.png",
-		// "emoteFrameset" : "emote/emote.png",
 		"frontArmFrameset" : "",
 		"backArmFrameset" : "",
 		"hairFrameset" : "",
@@ -41,6 +40,19 @@
 		"hindlegFrontFrameset" : "legs/hindlegFront.png",
 		"forelegBackFrameset" : "legs/forelegBack.png",
 		"forelegFrontFrameset" : "legs/forelegFront.png",
+
+		"headFlippedFrameset" : "malehead.png",
+		"bodyFlippedFrameset" : "malebody.png",
+		"frontArmFlippedFrameset" : "",
+		"backArmFlippedFrameset" : "",
+		"hairFlippedFrameset" : "",
+		"facialHairFlippedFrameset" : "",
+		"facialMaskFlippedFrameset" : "",
+
+		"hindlegBackFlippedFrameset" : "legs/hindlegBack.png",
+		"hindlegFrontFlippedFrameset" : "legs/hindlegFront.png",
+		"forelegBackFlippedFrameset" : "legs/forelegBack.png",
+		"forelegFrontFlippedFrameset" : "legs/forelegFront.png",
 
 		"eyesX":"0",
 		"eyesY":"0"
