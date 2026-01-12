@@ -147,7 +147,7 @@ function update( dt )
 		local iconPos = radialPoint(segmentSize * (i - 1) + 180, ri);
 		if options[i].icon then
 			if type(options[i].icon) == "table" then
-				local bounds = drawable.boundBoxAll(options[i].icon, true)
+				local bounds = drawable.boundBoxAll(options[i].icon, true) or {0,0,0,0}
 				local center = rect.center(bounds)
 				canvas:drawJsonDrawables(options[i].icon, vec2.sub(iconPos, center))
 				if iconPos[2] < 100 then
