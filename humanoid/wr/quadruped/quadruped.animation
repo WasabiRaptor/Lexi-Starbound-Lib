@@ -1534,19 +1534,18 @@
 					}
 				}
 			},
-			"emoteFront": {
-				"properties": {
-					"zLevel": 21
-				}
-			},
 			"headCosmetic" : { // this is merely a part for the generated cosmetic parts to anchor to
 				"properties" : {
 					"centered": true,
 					"anchorPart" : "head",
-					"zLevel" : 22
+					"zLevel" : 21
 				}
 			},
-
+			"emoteFront": {
+				"properties": {
+					"zLevel": 22
+				}
+			},
 			"frontArm": {
 				"properties": {
 					"centered": true,
