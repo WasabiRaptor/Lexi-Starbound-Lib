@@ -1,0 +1,42 @@
+{
+	"globalTagDefaults" : {
+		"hairBackFrameset" : "",
+		"hairBackFlippedFrameset" : ""
+	},
+	"animatedParts" : {
+		"parts" : {
+			"hairBack": {
+				"properties": {
+					"centered": true,
+					"zLevel": 7,
+					"anchorPart": "head",
+					"processingDirectives" : "<hairDirectives><helmetMaskDirectivesBigQuadruped>"
+				},
+				"partStates": {
+					"body": {
+						"idle": { "properties": { "image": "<humanoidPath><hairBackFrameset>:normal",
+							"flippedImage": "<humanoidPath><hairBackFlippedFrameset>:normal" } },
+						"duck": { "properties": { "image": "<humanoidPath><hairBackFrameset>:normal",
+							"flippedImage": "<humanoidPath><hairBackFlippedFrameset>:normal" } },
+						"sit": { "properties": { "image": "<humanoidPath><hairBackFrameset>:normal",
+							"flippedImage": "<humanoidPath><hairBackFlippedFrameset>:normal" } },
+						"lay": { "properties": { "image": "<humanoidPath><hairBackFrameset>:normal",
+							"flippedImage": "<humanoidPath><hairBackFlippedFrameset>:normal" } },
+						"walk": "idle",
+						"run": "idle",
+						"runbackwards": "idle",
+						"jump": "idle",
+						"fall": "idle",
+						"swim": "idle",
+						"swimIdle": "idle"
+					},
+					"portraitMode" : {
+						"head": { "properties":{"image": "<humanoidPath><hairBackFrameset>:normal<portraitMask>",
+							"flippedImage": "<humanoidPath><hairBackFlippedFrameset>:normal<portraitMask>"}},
+						"bust" : "head"
+					}
+				}
+			}
+		}
+	}
+}

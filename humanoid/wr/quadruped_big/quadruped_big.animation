@@ -23,7 +23,7 @@
 		"frontArmFrame" : "rotation",
 		"backArmFrame" : "rotation",
 		"helmetMaskDirectives" : "",
-		"helmetMaskDirectivesquadruped_big" : "",
+		"helmetMaskDirectivesBigQuadruped" : "",
 		"humanoidPath" : "",
 		"portraitMask" : "?addmask=/humanoid/wr/quadruped_big/portraitMask.png;12;0",
 		"bodyPortraitMask" : "?addmask=/humanoid/wr/quadruped_big/portraitMask.png;0;0",
@@ -1083,7 +1083,7 @@
 					"centered": true,
 					"zLevel": 18,
 					"anchorPart": "head",
-					"processingDirectives" : "<hairDirectives><helmetMaskDirectivesquadruped_big>"
+					"processingDirectives" : "<hairDirectives><helmetMaskDirectivesBigQuadruped>"
 				},
 				"partStates": {
 					"body": {
@@ -1110,7 +1110,7 @@
 					"centered": true,
 					"zLevel": 19,
 					"anchorPart": "head",
-					"processingDirectives" : "<facialHairDirectives><helmetMaskDirectivesquadruped_big>"
+					"processingDirectives" : "<facialHairDirectives><helmetMaskDirectivesBigQuadruped>"
 				},
 				"partStates": {
 					"body": {
@@ -1137,7 +1137,7 @@
 					"centered": true,
 					"zLevel": 20,
 					"anchorPart": "head",
-					"processingDirectives" : "<facialMaskDirectives><helmetMaskDirectivesquadruped_big>"
+					"processingDirectives" : "<facialMaskDirectives><helmetMaskDirectivesBigQuadruped>"
 				},
 				"partStates": {
 					"body": {
